@@ -373,10 +373,6 @@ color: var(--main-color);}*/
    flex-direction: column;
 }
 
-.label:last-child {
-   margin-bottom: 0px;
-}
-
 .lable-text {
    margin-bottom: 4px;
 
